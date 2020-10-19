@@ -254,7 +254,7 @@ string decryption(string s)
 	return ans;
 }
 int main()
-{	cout<<"Rohit Mittal\n  18103081\n\n"<<endl;
+{	
 	cout<<"Enter the 16 bit key (having only 0s and 1s) for encryption"<<endl;
 	string key;
 	//inputs 16 bit key
